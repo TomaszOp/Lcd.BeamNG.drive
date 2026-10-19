@@ -1,0 +1,26 @@
+# PlatformIO – katalog budowania i pobrane biblioteki
+.pio
+
+# VS Code – pliki generowane przez rozszerzenie PlatformIO (ścieżki lokalne)
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+.vscode/settings.json
+
+# Claude Code – lokalne ustawienia użytkownika
+.claude/settings.local.json
+
+# Pliki systemowe i edytorów
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.bak
+
+# ETS2Mod – wyniki kompilacji wtyczki
+ETS2Mod/build/
+BeamNGMod/build/
+
+# Notatki dla Claude Code – tylko lokalnie
+CLAUDE.md
